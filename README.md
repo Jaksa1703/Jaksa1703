@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jakub but you can call me Jaksa
+My name is Jakub but you can call me Jaksa. <br/>
 I am a computer  science student at  WSB NLU.
 ================================================
 
