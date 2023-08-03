@@ -8,7 +8,7 @@ Aspiring Backend Developer
 
 * 🌍  I'm based in Poland
 * 🖥️  You can find my website at [http://mywebsite-jaksa1703.pythonanywhere.com/](http://ttp://mywebsite-jaksa1703.pythonanywhere.com/)
-* 🧠  I'm learning Django and Bootstrap
+* 🧠  I'm currently learning Django. In my free time i write Rust projects.
 
 ### Skills
 
