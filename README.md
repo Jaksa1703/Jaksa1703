@@ -7,7 +7,7 @@ Junior System Administrator
 My name is Jakub, I am an enthusiastic and hardworking Computer Science student. As a motivated worker and a fast learner, I enjoy working autonomously and always produce the best possible outcome. I take on challenges head-on, analize them in the first place and then implement the solution. I am always able to make quick decisions in emergency situations. I am a second year computer science student at WSB NLU in Nowy Sącz. The Speciality I chose is "Cybersecurity Analyst".
 
 * 🌍  I'm based in Małopolskie, Poland
-* 🧠  I'm learning Flask
+* 🧠  I'm learning Bash and task automation.
 
 ### Skills
 
